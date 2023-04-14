@@ -6,3 +6,6 @@ git clone url_du_depot
 git push origin ma_branche
 git push -u origin ma_branche
 git push --all
+
+- La commande de pull
+git pull <remote> <branch>
