@@ -1,0 +1,8 @@
+- Cloner un repository
+git clone url_du_depot
+
+
+- Les 3 commandes de push
+git push origin ma_branche
+git push -u origin ma_branche
+git push --all
